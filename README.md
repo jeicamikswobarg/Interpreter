@@ -20,18 +20,26 @@ przykładowe wejscie:
 10
 
 a b c d 
+
 3
+
 a = 3
+
 b = 2
+
 c = 1
 
 
 wyjscie:
 
 3
+
 a 3
+
 b 2
+
 c 1
+
 d Nul
 
 Objaśnienie wejscia:
