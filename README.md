@@ -45,10 +45,13 @@ d Nul
 Objaśnienie wejscia:
 
 10 - limit ilosci operacji
+
 a b c d - zmienne
+
 3 - ilosc lini pod spodem
 
 Objasnienie wyjscia:
 
 3 - liczba wykonanych operacji
+
 wypisanie - zmienna, wartosc 
