@@ -17,7 +17,8 @@ Jednocześnie chcemy stworzyć ograniczenie na liczbę wykonywanych instrukcji. 
 
 przykładowe wejscie:
 
-10 
+10
+
 a b c d 
 3
 a = 3
